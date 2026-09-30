@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AVIATOR AO</string>
+    <string name="login_subtitle">BOT Analisador de Gráfico &amp; Navegador Oficial Angola</string>
+    <string name="login_username_label">Usuário ou Código de Acesso</string>
+    <string name="login_password_label">Senha de Acesso</string>
+    <string name="login_button_enter">ENTRAR NO BOT &amp; NAVEGADOR</string>
+    <string name="admin_panel_button">PAINEL CRIADOR DE CONTAS (ADMIN)</string>
+    <string name="bookmaker_bantubet">BantuBet AO</string>
+    <string name="bookmaker_elephantbet">ElephantBet AO</string>
+    <string name="bookmaker_kwanzabet">KwanzaBet AO</string>
+    <string name="hud_status_favorable">FAVORÁVEL P/ APOSTAR</string>
+    <string name="hud_status_moderate">MODERADO · CAUTELA</string>
+    <string name="hud_status_wait">NÃO APOSTAR · RECOLHA</string>
+    <string name="hud_protection_label">PROTEÇÃO (AUTO 1)</string>
+    <string name="hud_exit_label">SAÍDA ALVO (AUTO 2)</string>
+    <string name="hud_reach_label">ALCANCE DA VELA</string>
+    <string name="admin_title">PAINEL GERADOR DE CONTAS — AVIATOR AO</string>
+    <string name="admin_create_user">CRIAR NOVA CONTA DE USUÁRIO</string>
+    <string name="statistical_disclaimer">Análise estatística baseada na dispersão de velas recentes. Aposte com responsabilidade.</string>
+</resources>

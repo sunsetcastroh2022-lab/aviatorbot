@@ -1,0 +1,6 @@
+{
+  "name": "AVIATOR AO",
+  "description": "Navegador tático para BantuBet, ElephantBet e KwanzaBet com HUD de análise estatística de velas Aviator (Saída e Proteção) e Painel Admin criador de contas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
